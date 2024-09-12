@@ -1,5 +1,5 @@
 <br>Software Engineer<br>
-[Portfolio](brianmunene.vercel.app)
+[Portfolio](https://brianmunene.vercel.app/)
 
 # 💻 Tech Stack:
 
